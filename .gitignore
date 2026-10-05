@@ -1,0 +1,4 @@
+node_modules/
+.env
+tv-tracker-backend/node_modules/
+tv-tracker-frontend/node_modules/
